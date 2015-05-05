@@ -113,4 +113,8 @@ png("buildings.png", width=480, height=240)
 plot(xts::apply.quarterly(log_xts$building, sum), main="Buildings")
 dev.off()
 
+png("not_buildings.png", width=480, height=240)
+plot(xts::apply.quarterly(log_xts$total, sum) - xts::apply.quarterly(log_xts$building, sum), main="Total - Buildings")
+dev.off()
+
 
