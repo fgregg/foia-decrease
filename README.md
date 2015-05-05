@@ -14,7 +14,7 @@ Department of Buildings is the ony Department with a clear decrease in FOIA requ
 Department of Buildings FOIA requests make up a little less than half of the the total FOIA requests. Omitting this department, the overall number of FOIA requests is clearly increasing.
 
 ## Key Questions
-- Open Data only seems to strongly substitute for FOIA requests in the building department. How were the FOIA requests for this department different than other departments.
+- Open Data only seems to strongly substitute for FOIA requests in the building department. How were the FOIA requests for this department different than other departments?
 - For efficiencies, the number of requests is not as interesting as effort spent responding to FOIA. What does that look like over time? 
 
 ## Notes
