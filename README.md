@@ -25,4 +25,4 @@ To make these images, run the the R script `chi_foia.R`. You need to be connecte
 - Most Administrative Hearings FOIA requests are for case files and often request multiple case files. At the beginning of 2014, Administrative Hearings started listing each case file as a separate line in the FOIA log to reflect the true volume more accurately.
 
 ## Thanks
-Thanks to Johnathan Levy and Tom Schenk, Jr. for helping me track down some of the weirdnesses in this data.
+Thanks to Jonathan Levy and Tom Schenk, Jr. for helping me track down some of the weirdnesses in this data.
