@@ -7,7 +7,7 @@ Omits police, administrative hearings, health, and finance since these all have 
 
 ![Dept of Buildings FOIA requests](/buildings.png?raw=true "Dept of Buildings FOIA Requests")
 
-Department of Buildings is the ony Department with a clear decrease in FOIA requests. In the early period, most of the requests in the early period were about permits or building violations, which are not on the Data Portal.
+Department of Buildings is the ony Department with a clear decrease in FOIA requests. In the early period, most of the requests in the early period were about permits or building violations, which are now on the Data Portal.
 
 ![Non Dept of Buildings FOIA requests](/not_buildings.png?raw=true "Non Dept of Buildings FOIA Requests")
 
